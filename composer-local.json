@@ -5,9 +5,9 @@
 	"require": {
 		"greenpeace/planet4-master-theme" : "dev-master",
 		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master",
-		"greenpeace/planet4-plugin-gutenberg-engagingnetworks" : "dev-master"
+		"greenpeace/planet4-plugin-gutenberg-engagingnetworks" : "dev-planet-4798"
 	},
-	"data_from": "international",
+	"data_from": "mena",
 	"scripts": {
 		"site:custom" : []
 	}
