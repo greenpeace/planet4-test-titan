@@ -1,9 +1,14 @@
 ---
 version: 2.1
 
+parameters:
+  rollback:
+    type: boolean
+    default: false
+
 defaults: &defaults
   docker:
-    - image: greenpeaceinternational/p4-builder:planet-5484-only-remove-cache
+    - image: greenpeaceinternational/p4-builder:latest
 
 orbs:
   slack: circleci/slack@3.4.2
