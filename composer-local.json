@@ -3,7 +3,6 @@
 	"description": "Greenpeace P4 test-titan",
 	"license": "MIT",
 	"require": {
-		"cmb2/cmb2": "2.7.0",
 		"greenpeace/planet4-master-theme": "dev-master",
 		"greenpeace/planet4-plugin-gutenberg-blocks": "dev-master"
 	},
