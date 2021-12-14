@@ -4,10 +4,9 @@
 	"license": "MIT",
 	"require": {
 		"greenpeace/planet4-master-theme": "7",
-		"greenpeace/planet4-plugin-gutenberg-blocks": "7",
-		"greenpeace/planet4-child-theme-handbook": "dev-planet-6423"
+		"greenpeace/planet4-plugin-gutenberg-blocks": "7"
 	},
-	"data_from": "handbook",
+	"data_from": "international",
 	"scripts": {},
 	"repositories": [
 		{
