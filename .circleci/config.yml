@@ -23,6 +23,7 @@ job_environments:
     APP_HOSTPATH: test-titan
     CONTAINER_PREFIX: planet4-test-titan
     WP_DB_NAME_PREFIX: planet4-testtita_wordpress
+    CHART_VERSION: 0.8.18-alpha
   develop_environment: &develop_environment
     APP_ENVIRONMENT: development
     APP_HOSTNAME: www-dev.greenpeace.org
