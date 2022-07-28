@@ -3,8 +3,8 @@
 	"description": "Greenpeace P4 test-titan",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-master-theme": "dev-master",
-		"greenpeace/planet4-plugin-gutenberg-blocks": "7",
+		"greenpeace/planet4-master-theme": "dev-PLANET-6724_improve_ui_pagination",
+		"greenpeace/planet4-plugin-gutenberg-blocks": "dev-feature/override-pagination-native-functionality",
 		"plugins/sitepress-multilingual-cms": "*",
 		"plugins/wpml-string-translation": "*"
 	},
