@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"require": {
 		"greenpeace/planet4-master-theme": "dev-PLANET-6724_improve_ui_pagination",
-		"greenpeace/planet4-plugin-gutenberg-blocks": "dev-feature/override-pagination-native-functionality",
+		"greenpeace/planet4-plugin-gutenberg-blocks": "dev-gravity_forms_capabilities_for_editors",
 		"plugins/sitepress-multilingual-cms": "*",
 		"plugins/wpml-string-translation": "*"
 	},
