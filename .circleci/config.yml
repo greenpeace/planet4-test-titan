@@ -33,6 +33,7 @@ job_environments:
     HELM_RELEASE: planet4-test-titan
     WP_DB_NAME: planet4-testtita_wordpress_develop
     WP_STATELESS_BUCKET: planet4-test-titan-stateless-develop
+    CHART_VERSION: 0.8.29-alpha
 
 
 commands:
