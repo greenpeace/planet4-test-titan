@@ -3,27 +3,11 @@
 	"description": "Greenpeace P4 test-titan",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-master-theme": "dev-main",
-		"greenpeace/planet4-plugin-gutenberg-blocks": "7",
+		"greenpeace/planet4-master-theme": "dev-PLANET-6986_apply-new-identity-layout-to-tag-links",
+		"greenpeace/planet4-plugin-gutenberg-blocks": "dev-main",
 		"plugins/sitepress-multilingual-cms": "*",
 		"plugins/wpml-string-translation": "*"
 	},
 	"data_from": "international",
-	"scripts": {},
-	"repositories": [
-		{
-			"type": "package",
-			"package": {
-				"name": "greenpeace/planet4-plugin-gutenberg-blocks",
-				"type": "wordpress-plugin",
-				"autoload": null,
-				"extra": null,
-				"version": 7,
-				"dist": {
-					"type": "zip",
-					"url": "https://storage.googleapis.com/planet4-packages/planet4-plugin-gutenberg-blocks/217bb83aba3dfabf787f793b6610d03bcd1b34cf.zip"
-				}
-			}
-		}
-	]
+	"scripts": {}
 }
