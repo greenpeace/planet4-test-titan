@@ -17,11 +17,17 @@
 						"P4\\MasterTheme\\": "src/"
 					}
 				},
-				"extra": null,
+				"extra": {
+					"installer-paths": {
+						"vendor/plugins/{$name}/": [
+							"type:wordpress-plugin"
+						]
+					}
+				},
 				"version": 7,
 				"dist": {
 					"type": "zip",
-					"url": "https://storage.googleapis.com/planet4-packages/planet4-master-theme/fa33bbe29dc0e0d5bf7fc8c05994de21ae8f46fb.zip"
+					"url": "https://storage.googleapis.com/planet4-packages/planet4-master-theme/e1b16b8854301e3570a92086e6b928f743b99589.zip"
 				}
 			}
 		}
