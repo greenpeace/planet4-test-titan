@@ -3,6 +3,6 @@
 	"description": "Greenpeace P4 test-titan",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-master-theme": "dev-main"
+		"greenpeace/planet4-master-theme": "dev-PLANET-7820_solution-of-XSS-attack"
 	}
 }
