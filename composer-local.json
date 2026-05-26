@@ -5,7 +5,7 @@
 	"require": {
 		"greenpeace/planet4-master-theme": "dev-main",
 		"wpackagist-plugin/query-monitor": "3.*",
-		"guzzlehttp/psr7": "^2.9"
+		"guzzlehttp/psr7": "^2.7"
 	},
 	"data_from": "international"
 }
