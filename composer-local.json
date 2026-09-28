@@ -5,5 +5,8 @@
 	"require": {
 		"greenpeace/planet4-master-theme": "dev-main",
 		"wpackagist-plugin/query-monitor": "3.*"
+	},
+	"extra": {
+		"wp-version": "7.1.2"
 	}
 }
